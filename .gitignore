@@ -30,3 +30,13 @@ coverage/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Claude Harness runtime data
+.claude/runs/
+.claude/state/
+.claude/settings.local.json
+.claude/projects/
+.claude/todos/
+.claude/debug/
+.claude/history/
+.claude/session-env/
